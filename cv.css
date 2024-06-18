@@ -1,0 +1,43 @@
+.page{
+	widh:800px;
+	margin:auto;
+	font-family: 'source sans pro',calibri,tahoma,s-serif;
+	font-size: 16px;
+
+}
+.infophoto{
+	height: 250px;
+}
+.inf{
+	float: left;
+}
+.photo{
+	float: right;
+}
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+.
+
+h1{
+	font-size: 28àpx;
+	color: #3388BB;
+	border-bottom: 3px solid#3388DD;
+	
+}
+h2{
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom:3px solid#3388DD;
+}
+h3{
+	font-size: 28px;
+	color:#3388BB;
+	border-bottom:3px solid#3388DD;
+}
+h4{
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom: 3px solid#3388DD;
+}
